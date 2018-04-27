@@ -1,6 +1,6 @@
 require "formula"
 
-class ATools < Formula
+class Atools < Formula
   homepage "https://github.com/coord-e/atools"
   version 'v1.0.0'
 
