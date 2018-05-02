@@ -11,7 +11,7 @@ class Atools < Formula
 
   depends_on "w3m" if OS.mac?
   depends_on "tmux" => :optional
-  depends_on "fzf" => :optional 
+  depends_on "fzf" => :optional
   depends_on "peco" => :optional
   
 
